@@ -1,0 +1,24 @@
+{
+  "botconfig": {
+    "token": "OIhdiowjaklmnsdiouj38ijaskldfj93asD:_eRl0ßweksfclxmjfiosejhfiosdcv"
+  },
+  "mysqldata": {
+    "connectionLimit": "5",
+    "host": "localhost",
+    "user": "username",
+    "password": "sliveistderbestebotallerzeiten",
+    "database": "slive"
+  },
+  "errorHandling": {
+    "webhook": {
+      "enabled": true,
+      "url": "https://slivebot.de/r/error_webhook"
+    }
+  },
+  "twitch": {
+    "enabled": true,
+    "username": "slivebot",
+    "clientID": "722449151907987476",
+    "token": "%h$B4txrqh11fFF#TYfhURu0ypsPqw$KzR4g1jJctKJ"
+  }
+}
